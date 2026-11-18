@@ -1,5 +1,5 @@
-国際キッズプログラミング体験教室 2026年
-**Global_Kids_Programming_Event**
+#国際キッズプログラミング体験教室 2026年
+**(Global_Kids_Programming_Event)**
 
 子ども食堂で楽しむ！
 「国際キッズプログラミング体験教室のご提案」
